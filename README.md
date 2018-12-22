@@ -1,1 +1,1 @@
-# Fnancial Time Series Classification with CNN
+## Fnancial Time Series Classification with CNN
