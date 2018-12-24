@@ -8,7 +8,7 @@ Then, please follow the below order to run codes:
   
   b) Run 'Training and Validation.ipynb'. This will give training and valiation results of the project. Detailed outlines and introductions can be found either in the report or in the notebook markdowns.
   
-  c) Run 'Strategy Backtest.ipynb'. This shall give a backtest result outlined in the report.
+  c) Run 'Long-only Deep Portfolio Strategy Backtest.ipynb'. This shall give a backtest result outlined in the report.
   
   
  Finally, please make all codes visible to each other, since there will be constant calling of functions from all the .py files by the .ipynb files. Other comments are well outlined in each files per se.
