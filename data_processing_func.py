@@ -116,8 +116,8 @@ def getTimeSeriesCNNTarget(df, data_len=64, retrain_freq=5, up_return = 0.0125, 
 
 
 
-def getTrainingDataFromPath(feature_path = 'data/',
-                            target_path = 'data/',
+def getTrainingDataFromPath(feature_path = 'data/cnn samples',
+                            target_path = 'data/cnn samples',
                             data_type = 'GADF',
                             image_size = 16,
                             train_val_size = 2/3,
