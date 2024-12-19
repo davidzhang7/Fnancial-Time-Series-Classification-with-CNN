@@ -2,6 +2,8 @@
 
 This is a project to predict financial time series with CNN. To run, please go through the report first.
 
+The model and project are detailed in paper Deep Portfolio Selection.pdf.
+
 Then, please follow the below order to run codes:
 
   a) Run 'Generate CNN Samples.ipynb'. This should create a folder 'cnn samples' under path 'data/', and then create 27 pickle files with specified type of CNN samples (GASF/GADF).
